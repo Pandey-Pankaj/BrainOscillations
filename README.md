@@ -1,3 +1,3 @@
-# NeuroTechnology
+# Brain Oscillations
 
-This contains all the resources related to NeuroTech.
+This contains all the resources related to Brain Oscillations
