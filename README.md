@@ -1,7 +1,9 @@
 # Brain Oscillations
 
-This contains all the resources related to Brain Oscillations
-
+This contains all the resources related to Brain Oscillations. Brain Osciallations are observed in three ways. 
+1. Micro (Action Potential)
+2. Meso (Local Field Potential)
+3. Macro (EEG)
 
 
 # Books
