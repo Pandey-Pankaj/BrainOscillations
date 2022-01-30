@@ -1,0 +1,3 @@
+# action potential
+
+In physiology, an action potential (AP) occurs when the membrane potential of a specific cell location rapidly rises and falls:[1] this depolarization then causes adjacent locations to similarly depolarize. Action potentials occur in several types of animal cells, called excitable cells, which include neurons, muscle cells, endocrine cells and in some plant cells.[Wikipedia](https://en.wikipedia.org/wiki/Action_potential)
