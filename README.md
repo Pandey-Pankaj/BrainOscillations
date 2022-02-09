@@ -15,5 +15,6 @@ This contains all the resources related to Brain Oscillations. Brain Osciallatio
 
 # Papers
 1. Mitchell, D. J., McNaughton, N., Flanagan, D., & Kirk, I. J. (2008). Frontal-midline theta from the perspective of hippocampal “theta”. Progress in neurobiology, 86(3), 156-185.
+2. [Electroencephalography](https://www.sciencedirect.com/science/article/pii/S0960982218315513?via%3Dihub)
 
 
