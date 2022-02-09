@@ -8,6 +8,7 @@ This contains all the resources related to Brain Oscillations. Brain Osciallatio
 
 # Books
 1. Rhythms of the brain [Gyorgy Buzsaki]
+2. [Micro-, Meso- and Macro- Dynamics of the Brain](https://www.ncbi.nlm.nih.gov/books/NBK435748/pdf/Bookshelf_NBK435748.pdf)
 
 
 
