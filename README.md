@@ -21,6 +21,6 @@ This contains all the resources related to Brain Oscillations. Brain Osciallatio
 2. [Electroencephalography](https://www.sciencedirect.com/science/article/pii/S0960982218315513?via%3Dihub)
 
 
-### [Datasets](datasets.md)
+# [Datasets](datasets.md)
 
 
