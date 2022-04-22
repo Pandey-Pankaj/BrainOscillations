@@ -4,4 +4,4 @@
 2. Causal
 
 ### External
-4. Stimulus-Response
+3. Stimulus-Response
